@@ -14,7 +14,7 @@
     "fs": "0.0.1-security",
     "google-contacts": "^0.1.5",
     "google-contacts-crud": "^1.0.6",
-    "googleapis": "^27.0.0",
+    "googleapis": "^59.0.0",
     "mongoose": "^5.5.1",
     "native-base": "^2.12.1",
     "node-cmd": "^3.0.0",
