@@ -21,7 +21,7 @@
     "nodemailer": "^6.0.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "react": "16.5.0",
-    "react-native": "0.59.4",
+    "react-native": "0.62.3",
     "react-native-communications": "^2.2.1",
     "react-native-contacts": "^4.0.0",
     "react-native-dialog-input": "^1.0.7",
